@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#img-header {
+    width: 100%;
+    height: 600px;
+}
+
+#menuheader {
+    font-size: 100px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.kidexample {
+    width: 40%;
+    text-align: center;
+}
